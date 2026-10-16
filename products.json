@@ -1,0 +1,17 @@
+{
+  "categories": ["polos", "t_shirts"],
+  "products": [
+    {
+      "id": "p_polos_1",
+      "name": "Premium Cotton Polo - 230 GSM",
+      "category": "polos",
+      "price": 899,
+      "stock": "In Stock",
+      "sizes": "M, L, XL, XXL",
+      "colors": "Black, Navy, Maroon",
+      "fabric": "230 GSM Combed Cotton",
+      "description": "Export quality 230 GSM combed cotton.",
+      "image": ""
+    }
+  ]
+}
